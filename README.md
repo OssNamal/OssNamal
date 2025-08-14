@@ -1,7 +1,7 @@
 ##  Namal Open Source Society (OSS)
-Namal Open Source Society
+
 <div align="center">
-  <h3>🌟 Build. Contribute. Impact. 🌟</h3>
+  <h3> Build. Contribute. Impact. </h3>
   <p>Empowering Namal students to become impactful open-source contributors through collaborative development, real-world projects, and continuous learning.</p>
 Show Image
 Show Image
