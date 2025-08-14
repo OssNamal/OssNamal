@@ -8,6 +8,20 @@
 The Open Source Society (OSS) at Namal University is more than just another tech society. We're a gateway to the global developer world, built on the principle of "learning by doing" and contributing to the real-world tech ecosystem.
 Unlike other tech societies that primarily focus on webinars, competitions, or internal events, OSS empowers students to work on actual projects that impact developers and communities worldwide.
 <h2> Mission & Vision <h2>
+  <details>
+<summary><strong>🎯 Our Mission</strong></summary>
+<br>
+To empower Namal students with the skills, mindset, and opportunities to become impactful open-source contributors. Through collaborative development, real-world projects, and a culture of continuous learning, we aim to build a community that codes with purpose and transparency.
+</details>
+<details>
+<summary><strong>🌟 Our Vision</strong></summary>
+<br>
+To establish Namal University as a nationally and globally recognized hub for open-source innovation, where student-led contributions create lasting value in the tech world and local communities alike.
+</details>
+<div align="center">
+<h3>🎭 Our Motto</h3>
+<em>"Build. Contribute. Impact."</em>
+</div>
 <details>
 <summary><strong>Our Mission</strong></summary>
 <br>
