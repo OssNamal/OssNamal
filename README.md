@@ -27,7 +27,22 @@ Unlike other tech societies that primarily focus on webinars, competitions, or i
 Our mission is to empower Namal students with the skills, mindset, and opportunities to become impactful open-source contributors through collaborative development and real-world projects.
 
 Our vision is to establish Namal University as a nationally and globally recognized hub for open-source innovation, where student-led contributions create lasting value in the tech world and local communities
+<h2>Our Team Structure</h2>
+Our society is organized with specialized roles to ensure comprehensive support:
 
+**President** – Provides vision and strategy.
+
+**Systems & Code Lead** – Oversees technical architecture and quality.
+
+**Project Coordinator** – Manages timelines and productivity.
+
+**Community & Education Lead** – Builds onboarding programs and fosters a learning culture.
+
+**Research & Innovation Lead** – Explores emerging trends and new opportunities.
+
+**Design & Content Head** – Shapes visual identity and maintains documentation.
+
+**Outreach & Collaboration Lead** – Develops external partnerships and networking.
 
 
 <!--
