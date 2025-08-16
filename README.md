@@ -24,7 +24,9 @@ Unlike other tech societies that primarily focus on webinars, competitions, or i
 </div>
 <h2>Mission & Vision</h2>
 
-Our mission is to empower Namal students with the skills, mindset, and opportunities to become impactful open-source contributors through collaborative development and real-world projects. Our vision is to establish Namal University as a nationally and globally recognized hub for open-source innovation, where student-led contributions create lasting value in the tech world and local communities
+Our mission is to empower Namal students with the skills, mindset, and opportunities to become impactful open-source contributors through collaborative development and real-world projects.
+
+Our vision is to establish Namal University as a nationally and globally recognized hub for open-source innovation, where student-led contributions create lasting value in the tech world and local communities
 
 
 
