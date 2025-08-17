@@ -1,16 +1,3 @@
-# Namal Open Source Society (OSS)
-
-**Build. Contribute. Impact.**
-
-Empowering Namal students to become impactful open-source contributors through collaborative development, real-world projects, and continuous learning.
-
-Ready to start your open-source journey? We'd love to have you aboard!
-
-[Email](mailto:oss@namal.edu.pk)  
-[Instagram](https://instagram.com/namal_oss)  
-[Facebook](https://facebook.com/NamalOSS)  
-[LinkedIn](https://linkedin.com/company/open-source-society)
-
 
 ##  Namal Open Source Society (OSS)
 
@@ -62,13 +49,10 @@ Our society is organized with specialized roles to ensure comprehensive support:
 
 Ready to start your open-source journey? We'd love to have you aboard!
 
-Email: oss@namal.edu.pk
-
-Instagram: @namal_oss
-
-Facebook: NamalOSS
-
-LinkedIn: Open Source Society
+[Email](mailto:oss@namal.edu.pk)  
+[Instagram](https://instagram.com/namal_oss)  
+[Facebook](https://facebook.com/NamalOSS)  
+[LinkedIn](https://linkedin.com/company/open-source-society)
 
 <!--
 **OssNamal/OssNamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
