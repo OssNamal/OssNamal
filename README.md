@@ -1,3 +1,18 @@
+# Namal Open Source Society (OSS)
+
+**Build. Contribute. Impact.**
+
+Empowering Namal students to become impactful open-source contributors through collaborative development, real-world projects, and continuous learning.
+
+Ready to start your open-source journey? We'd love to have you aboard!
+
+- **Email**: [oss@namal.edu.pk](mailto:oss@namal.edu.pk)
+- **Instagram**: [@namal_oss](https://instagram.com/namal_oss)
+- **Facebook**: [NamalOSS](https://facebook.com/NamalOSS)
+- **LinkedIn**: [Open Source Society](https://linkedin.com/company/open-source-society)
+
+## About Us
+
 ##  Namal Open Source Society (OSS)
 
   <h3> Build. Contribute. Impact. </h3>
