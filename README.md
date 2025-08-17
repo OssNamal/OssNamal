@@ -4,7 +4,7 @@
 
 ## Namal Open Source Society (OSS) ##
 
-<h3>Build. Contribute. Impact.</h3>
+<h2>Build. Contribute. Impact.</h2>
 
 Empowering Namal students to become impactful open-source contributors through collaborative development, real-world projects, and continuous learning.
 
@@ -26,8 +26,8 @@ Empowering Namal students to become impactful open-source contributors through c
   </a>
 </p>
 
-<h3> About Us </h3>
-<div></div>
+<h2> About OSS </h2>
+
 
 Welcome to the Namal Open Source Society (OSS)! We are a vibrant community dedicated to empowering Namal students with the skills, mindset, and opportunities to become impactful open-source contributors. Through collaborative development, real-world projects, and a culture of continuous learning, we aim to build a community that codes with purpose and transparency.
 
