@@ -9,7 +9,7 @@
 Empowering Namal students to become impactful open-source contributors through collaborative development, real-world projects, and continuous learning.
 
 <div align="center">
-  <img src="./assets/45395492.png" alt="Namal Open Source Society Logo" width="200"/>
+  <img "C:\Users\Habiburrehman\Desktop\45395492.png" alt="Namal Open Source Society Logo" width="200"/>
 </div>
 
 
