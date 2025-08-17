@@ -61,7 +61,7 @@ It builds a culture of peer mentorship and public learning, unlike one-time even
 In short, OSS is not just a society. It is a gateway to the global developer world. It allows Namal students to build a visible tech portfolio, contribute meaningfully, and put Namal University’s name on the map of global innovation.
 
 
-</div>
+
 
 
 <h2>What Makes Us Different..?</h2>
@@ -78,11 +78,7 @@ In short, OSS is not just a society. It is a gateway to the global developer wor
 
 
 </div>
-<h2>Mission & Vision</h2>
 
-Our mission is to empower Namal students with the skills, mindset, and opportunities to become impactful open-source contributors through collaborative development and real-world projects.
-
-Our vision is to establish Namal University as a nationally and globally recognized hub for open-source innovation, where student-led contributions create lasting value in the tech world and local communities
 <h2>Our Team Structure</h2>
 Our society is organized with specialized roles to ensure comprehensive support:
 
@@ -99,27 +95,4 @@ Our society is organized with specialized roles to ensure comprehensive support:
 **Design & Content Head** – Shapes visual identity and maintains documentation.
 
 **Outreach & Collaboration Lead** – Develops external partnerships and networking.
-
-<h2>Connect With Us</h2>
-
-Ready to start your open-source journey? We'd love to have you aboard!
-
-[Email](mailto:oss@namal.edu.pk)  
-[Instagram](https://instagram.com/namal_oss)  
-[Facebook](https://facebook.com/NamalOSS)  
-[LinkedIn](https://linkedin.com/company/open-source-society)
-
-<!--
-**OssNamal/OssNamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ..
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
