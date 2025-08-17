@@ -6,12 +6,11 @@ Empowering Namal students to become impactful open-source contributors through c
 
 Ready to start your open-source journey? We'd love to have you aboard!
 
-- **Email**: [oss@namal.edu.pk](mailto:oss@namal.edu.pk)
-- **Instagram**: [@namal_oss](https://instagram.com/namal_oss)
-- **Facebook**: [NamalOSS](https://facebook.com/NamalOSS)
-- **LinkedIn**: [Open Source Society](https://linkedin.com/company/open-source-society)
+[Email](mailto:oss@namal.edu.pk)  
+[Instagram](https://instagram.com/namal_oss)  
+[Facebook](https://facebook.com/NamalOSS)  
+[LinkedIn](https://linkedin.com/company/open-source-society)
 
-## About Us
 
 ##  Namal Open Source Society (OSS)
 
