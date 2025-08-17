@@ -4,7 +4,7 @@
 
 ## Namal Open Source Society (OSS) ##
 
-Build. Contribute. Impact.
+<h3>Build. Contribute. Impact.</h3>
 
 Empowering Namal students to become impactful open-source contributors through collaborative development, real-world projects, and continuous learning.
 
