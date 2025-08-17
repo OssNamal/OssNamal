@@ -2,7 +2,7 @@
 
 <div align="center">
 
-Namal Open Source Society (OSS)
+## Namal Open Source Society (OSS) ##
 
 Build. Contribute. Impact.
 
