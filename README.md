@@ -10,7 +10,7 @@ Empowering Namal students to become impactful open-source contributors through c
 
 
 <div align="center">
-  <img src="./assets/45395492.png" alt="Namal Open Source Society Logo" width="200"/>
+  <img src="[./assets/45395492.png](https://raw.githubusercontent.com/OssNamal/OssNamal/main/assets/45395492.png.)" alt="Namal Open Source Society Logo" width="200"/>
 </div>
 
 <p align="center">
