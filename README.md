@@ -77,7 +77,7 @@ In short, OSS is not just a society. It is a gateway to the global developer wor
 **Peer Mentorship** – A culture of continuous learning and public development.
 
 
-</div>
+
 
 <h2>Our Team Structure</h2>
 Our society is organized with specialized roles to ensure comprehensive support:
