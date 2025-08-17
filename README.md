@@ -95,4 +95,12 @@ Our society is organized with specialized roles to ensure comprehensive support:
 **Design & Content Head** – Shapes visual identity and maintains documentation.
 
 **Outreach & Collaboration Lead** – Develops external partnerships and networking.
+<div align="center">
+  <h3>🌟 Star this repository if you find it helpful! 🌟</h3>
+  <p><em>Made with ❤️ by Namal Open Source Society</em></p>
+</div>
+
+</div>
+
+
 </div>
