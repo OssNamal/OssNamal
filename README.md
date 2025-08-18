@@ -9,7 +9,7 @@
 
 <h2>Build. Contribute. Impact.</h2>
 
-Empowering Namal students to become impactful open-source contributors through collaborative development, real-world projects, and continuous learning.
+<b>Empowering Namal students to become impactful open-source contributors through collaborative development, real-world projects, and continuous learning.</b>
 
 
 <p align="center">
