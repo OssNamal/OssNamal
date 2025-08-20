@@ -7,7 +7,7 @@
   <img src="./45395492.png" alt="Namal Open Source Society Logo" width="200"/>
 </div>
 
-<h2>Build. Contribute. Impact.</h2>
+<h2>Build - Contribute - Impact</h2>
 
 <b>Empowering Namal students to become impactful open-source contributors through collaborative development, real-world projects, and continuous learning.</b>
 
@@ -75,6 +75,49 @@ In short, OSS is not just a society. It is a gateway to the global developer wor
 **Future-Focused** – Preparation for remote jobs, internships, and freelance opportunities.
 
 **Peer Mentorship** – A culture of continuous learning and public development.
+
+ <h2> Our Projects </h2>
+
+Here are some of the key projects our society is actively working on:
+
+**OSS Website**
+
+Our official society website, serving as a central hub for information, events, and resources for Namal Open Source Society members and the wider community.
+
+•
+Status: In Progress
+
+•
+Technologies: [List relevant technologies, e.g., HTML, CSS, JavaScript, React, Flask]
+
+•
+Repository: [Link to OSS Website GitHub Repository (if available)]
+
+**Linus Studio**
+
+A collaborative environment or tool developed by our members, likely focused on Linux-related development or open-source contributions.
+
+•
+Status: In Progress
+
+•
+Technologies: [List relevant technologies, e.g., Python, C++, Linux, specific libraries]
+
+•
+Repository: [Link to Linus Studio GitHub Repository (if available)]
+
+**Linux Lab**
+
+A dedicated initiative or project aimed at exploring, experimenting with, and contributing to the Linux ecosystem, possibly involving setting up labs or developing tools for Linux.
+
+•
+Status: In Progress
+
+•
+Technologies: [List relevant technologies, e.g., Bash, Kernel, Docker, Virtualization]
+
+•
+Repository: [Link to Linux Lab GitHub Repository (if available)]
 
 
 
