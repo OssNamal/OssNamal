@@ -120,6 +120,37 @@ Technologies: [List relevant technologies, e.g., Bash, Kernel, Docker, Virtualiz
 Repository: [Link to Linux Lab GitHub Repository (if available)]
 
 
+<h2> Technologies We Use </h2>
+
+Our society leverages a variety of technologies to build, contribute, and innovate. Here are some of the key technologies and tools our members frequently work with:
+
+•
+Programming Languages: Python, JavaScript, C++, Java, Go, Rust
+
+•
+Web Technologies: HTML, CSS, React, Node.js, Flask, Django
+
+•
+Databases: SQL (PostgreSQL, MySQL), NoSQL (MongoDB)
+
+•
+Version Control: Git, GitHub
+
+•
+Operating Systems: Linux (various distributions), Windows, macOS
+
+•
+Cloud Platforms: AWS, Google Cloud Platform, Azure
+
+•
+Containerization: Docker, Kubernetes
+
+•
+DevOps Tools: CI/CD pipelines, Jenkins, GitHub Actions
+
+•
+Other Tools & Concepts: Machine Learning, Data Science, Cybersecurity, Blockchain, UI/UX Design
+
 
 
 <h2>Our Team Structure</h2>
