@@ -88,7 +88,7 @@ Our official society website, serving as a central hub for information, events, 
 Status: In Progress
 
 •
-Technologies: [List relevant technologies, e.g., HTML, CSS, JavaScript, React, Flask]
+Technologies: [List relevant technologies, e.g., HTML, CSS, JavaScript, React, Flask] 
 
 •
 Repository: [Link to OSS Website GitHub Repository (if available)]
